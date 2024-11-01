@@ -1,4 +1,4 @@
-# kiwifarms_mirrors
+# Kiwi Farms Mirrors
 Current list of mirror links for the Kiwi Farms
 
 https://kiwifarms.net/
